@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Skiing"
+date:   2005-02-13 20:30:09
+categories: outdoors
+excerpt: "We've lived in the snow belt for a couple of years now with mountains on our doorstep and yet somehow we've never gotten round to any kind of winter sports"
+---
+We've lived in the snow belt for a couple of years now with mountains on our doorstep and yet somehow we've never gotten round to any kind of winter sports unless you count a bit of sledging and making big log fires. This weekend we ran out of excuses so Caleb and I headed out to learn how to ski at <a href="http://mountsunapee.com/winter/index.html">Mount Sunapee</a> which is about an hours drive north west of our house.
+
+Not being the fittest of men, I'm now 'very tired' (TM) but it was great fun and I plan to head back up there next weekend to take a couple more lessons. Here's a couple of pictures that Alison took in between trying to keep Alex warm and amused.
+
+<table>
+	<tr>
+		<td><img src="{{ site.url }}/assets/caleb_ski.jpg" alt="Caleb on skis" width="400" height="519" hspace="5" vspace="5"></td>
+		<td><img src="{{ site.url }}/assets/marc_ski.jpg" alt="Marc on skis" width="400" height="506" hspace="5" vspace="5"></td>
+	</tr>
+</table>
+
+I realize the slopes we're on in the pictures look pretty flat but I can assure you that's just an optical illusion ;-).

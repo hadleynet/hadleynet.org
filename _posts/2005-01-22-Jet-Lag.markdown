@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Jet Lag"
+date:   2005-01-22 05:09:21
+categories: travel
+excerpt: "Very tired..."
+---
+
+<p>This has to be the best/worst case of jet lag I've ever had. I spent last week at a <a href="http://www.w3.org/2002/ws/addr/">W3C WS-Addressing</a> meeting in Melbourne, Australia (very nice btw) but have been home since Thursday evening. Its now just after 5am on Saturday morning but I've been awake since about 1.30am. This is pretty churtling because I'm 'very tired'(TM).</p>

@@ -1,0 +1,13 @@
+# Site settings
+title: HadleyNet.org
+email: marc@hadleynet.org
+description: > # this means to ignore newlines until "baseurl:"
+  The ongoing adventures of the Hadley family: Marc, Alison, Caleb and Alex
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://hadleynet.org" # the base hostname & protocol for your site
+twitter_username: hadleynet
+github_username:  hadleynet
+
+# Build settings
+markdown: kramdown
+paginate: 5

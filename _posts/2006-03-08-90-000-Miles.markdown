@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "90,000 Miles"
+date:   2006-03-08 17:06:20
+categories: travel
+excerpt: "Too much time in an aluminium tube"
+---
+According to the <a href="http://gc.kls2.com/">Great Circle Mapper</a>, that's how many miles I flew last year. Here's a map showing the routes I flew.
+
+<img src="{{ site.url }}/assets/flights2005.gif"/>
+
+No wonder I was little tired over Christmas. Unfortunately that still left me 10,000 miles short of full "tinsel of the ionosphere" airline status but as things are looking quieter travel-wise this year that's not such a bad thing.
