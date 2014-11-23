@@ -5,12 +5,15 @@ class IPhotoGalleryTag < Liquid::Tag
   end
 
   def render(context)
-    galleries = []
-    Dir.glob(File.join('photos/galleries', '*')).each do |gallery|
-      gallery_name = File.basename(gallery)
-      galleries << "<a href='galleries/#{gallery_name}'>#{gallery_name.capitalize}</a>"
+    galleries = ['<ul>']
+    Dir.glob(File.join('photos/galleries', '*')).reverse.each do |gallery|
+      gallery_dir_name = File.basename(gallery)
+      year, month, *name = gallery_dir_name.split('_')
+      gallery_date = Time.local(year.to_i, month.to_i) 
+      galleries << "<li><a href='galleries/#{gallery_dir_name}'>#{name.join(' ')} #{gallery_date.strftime('%b %Y')}</a></li>"
     end
-    galleries.join(' ')
+    galleries << '</ul>'
+    galleries.join("\n")
   end
 end
 
