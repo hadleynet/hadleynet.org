@@ -21,3 +21,6 @@ layout: default
   {% endfor %}
   {% endfor %}
 </ul>
+{% for category in site.categories %}
+  <a class="post-meta" href="/category/{{ category | first  }}">{{ category | first  }}</a>
+{% endfor %}

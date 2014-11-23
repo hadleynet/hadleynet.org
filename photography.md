@@ -4,4 +4,4 @@ title: Photos
 permalink: /photos/
 ---
 
-TBD
+{% gallery %}

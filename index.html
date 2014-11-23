@@ -47,6 +47,10 @@ layout: default
     {% endif %}
   </div>
   {% endif %}  
+  
+  {% for category in site.categories %}
+    <a class="post-meta" href="/category/{{ category | first  }}">{{ category | first  }}</a>
+  {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
