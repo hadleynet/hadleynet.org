@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Boys"
+date:   2004-01-04 23:59:49
+categories: family
+excerpt: "Our two boys"
+---
+<img border="0" src="/assets/theboys.jpg" alt="theboys (49k image)" height="413" width="550"/>
+

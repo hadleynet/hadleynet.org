@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Brrrrrr."
+date:   2002-12-09 22:40:16
+categories: weather
+excerpt: "Not used to these temperatures"
+---
+Driving home tonight, about 10 minutes from home, I happened to glance up at the compass/temp/trip/mpg/etc meter above the rear view mirror. What I saw required a double take: -12C. I thought it was a bit on the nippy side walking from my office to the car, but -12C ! Brrrrrr. I dread to think what the wind chill must be.
+

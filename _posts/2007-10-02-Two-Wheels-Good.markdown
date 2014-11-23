@@ -2,7 +2,7 @@
 layout: post
 title:  "Two Wheels Good"
 date:   2007-10-02 16:21:16
-categories: 
+categories: misc
 excerpt: "My new ride: a Triumph Sprint ST"
 ---
 <a href="http://www.flickr.com/photos/62004596@N00/1473285570" title="View 'Two Wheels Good' on Flickr.com"><img src="http://farm2.static.flickr.com/1231/1473285570_a68d5e192e_m.jpg" alt="Two Wheels Good" border="0" width="240" height="199" align="left"/></a>After a break of of nearly six years since I sold my Suzuki Bandit I'm back on two wheels. To the left is a picture of my new ride, a 2001 Triumph Sprint ST in British Racing Green. I very nearly bought one of these or a Daytona back in the UK before we moved but once I learned how difficult it would be to transfer to the USA I gave up on that idea and its taken till now to get back round to it.

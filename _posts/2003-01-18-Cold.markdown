@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cold"
+date:   2003-01-18 20:03:36
+categories: weather
+---
+Its absurdly cold here at the moment, as Tom Waits once opined, its "colder than a gut shot bitch wolf dog with nine sucking pups pulling a number four trap up a hill in the dead of winter in the middle of a snowstorm with a mouth full of porcupine quills."
+
+<img src="/assets/weather.png" alt="weather forcast"/>
+
+From the <a href="http://weather.gov/">NOAH</a> weather bulletin: "bitterly cold wind chill values between 25 and 35 below are possible on tuesday night... Wind chill values lower than 15 below zero can cause frostbite if skin is exposed for 30 minutes.  Frostbite can occur within 10 minutes if wind chill readings drop lower than 30 below."
+

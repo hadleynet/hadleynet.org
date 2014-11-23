@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "WS-I F2F"
+date:   2002-11-11 21:38:33
+categories: work travel
+excerpt: "Miami Beach"
+---
+From Wednesday 6th Nov. I'm attending the <a href="http://www.ws-i.org/">WS-I</a> plenary meeting this week in <a href="http://www.thepalmshotel.com/">Miami Beach</a> (I know, its a hard life sometimes). Unfortunately, for an organization dedicated to web services interoperability, the hotel where the meeting is being held doesn't offer web access except via dial-up. On the first day we actually had wireless access via a DSL line but then the hotel presented the bill for <i>$100 per person</i> so the WS-I board pulled the plug. As a result there are a hundred plus geeks wandering round here with a strange lost look in their eyes and twitchy fingers - internet withdrawl is a terrible thing !
+

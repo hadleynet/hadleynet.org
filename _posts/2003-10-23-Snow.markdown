@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Snow"
+date:   2003-10-23 08:13:55
+categories: weather
+excerpt: "Seems the weather forecast wasn't kidding"
+---
+Seems they weren't kidding:
+
+<img border="0" src="/assets/snowydeck.jpg" alt="snowydeck (62k image)" height="375" width="500"/>
+

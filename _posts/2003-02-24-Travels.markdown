@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Travels"
+date:   2003-02-24 21:13:09
+categories: travel work
+excerpt: "Off to California"
+---
+I'm off on my travels again, this week in sunny California (except its raining which is rather disappointing). I have a two day <a href="http://www.ws-i.org/">WS-I</a> meeting being hosted by Oracle on Tues and Wed in Redwood Shores then I'm heading down to Santa Clara for some internal meetings. Heading back home on Friday night with a splendid 5.50am - 9.30am stopover in Detroit on Saturday morning - joy ! I had to smile when I picked up my hire car, the very essence of Datsun Bilburyness, a white Toyota something or other - Frazer would not have been impressed.
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Icicles"
+date:   2003-01-12 20:54:01
+categories: weather
+excerpt: "and snow"
+---
+We have icicles on the roof of the house
+
+<img src="/assets/icicles1.jpg" alt="icicle picture"/>
+
+and a load of snow on the shed roof
+
+<img src="/assets/shed.jpg" alt="shed picture"/>
+

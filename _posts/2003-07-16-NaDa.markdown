@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "NaDa"
+date:   2003-07-16 08:15:19
+categories: tech
+excerpt: "Cool new software"
+---
+Cool new software, from the <a href="http://www.bernardbelanger.com/computing/NaDa/">website</a>: "Compatible with all Mac OSs, including OS X Jaguar, all Windows versions, all flavors of UNIX/Linux, Amiga, BeOS, everything you can think of, because we strongly believe that NaDa does nothing for everybody. 
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "JavaOne"
+date:   2003-06-08 09:16:37
+categories: work travel
+excerpt: "Geek out time"
+---
+I'm heading off to San Francisco in a couple of hours for the annual <a href="http://javaone.key3media.com/sf2003/registration/">JavaOne conference</a>. I have a couple of <a href="http://servlet.java.sun.com/javaone/sf2003/conf/speakers/21753-bio.en.jsp">speaking slots</a> related to <a href="http://www.ws-i.org">WS-I</a> and I'm leading a <a href="http://servlet.java.sun.com/javaone/sf2003/conf/sessions/display-3752.en.jsp">session</a> and <a href="http://servlet.java.sun.com/javaone/sf2003/conf/bofs/display-2571.en.jsp">BOF</a> related to fast web services. Apart from a couple of booth duty slots (J2EE and WS-I) I have the rest of the conference to geek out and enjoy myself and I'm staying over in San Francisco next weekend with Simon to do a bit of sight seeing, beer drinking and CD buying.
+

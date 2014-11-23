@@ -2,7 +2,7 @@
 layout: post
 title:  "Medal!"
 date:   2006-06-07 14:46:52
-categories: 
+categories: sports
 excerpt: "First place in Kata"
 ---
 Somewhat shockingly I won in <a href="http://en.wikipedia.org/wiki/Kata">kata</a> at today's <a href="http://shidokan.dimentech.com/index.html">Shidokan International</a> karate tournament. Granted, my division wasn't as full as some others (beginner, age 35-44) but I still felt a sense of accomplishment at the end. Here's a pic of me getting the medal.

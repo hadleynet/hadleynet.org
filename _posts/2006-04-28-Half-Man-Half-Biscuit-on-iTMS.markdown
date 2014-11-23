@@ -3,7 +3,7 @@ layout: post
 title:  "Half Man Half Biscuit on iTMS"
 date:   2006-04-28 09:44:06
 categories: music
-excerpt: "A decent selection of <a href='http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=118947169'>Half Man Half Biscuit</a> albums are available on iTMS."
+excerpt: "A decent selection of Half Man Half Biscuit albums are available on iTMS."
 ---
 The title says it all, a decent selection of <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=118947169">Half Man Half Biscuit</a> albums are available on iTMS.
 

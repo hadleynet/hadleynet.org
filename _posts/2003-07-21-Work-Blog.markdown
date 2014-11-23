@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Work Blog"
+date:   2003-07-21 14:26:54
+categories: work
+---
+I've got a <a href="http://weblogs.java.net/pub/wlg/263">work related blog</a> over at java.net.
+

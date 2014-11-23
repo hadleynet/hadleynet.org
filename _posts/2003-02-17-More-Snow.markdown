@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "More Snow"
+date:   2003-02-17 12:06:28
+categories: weather
+excerpt: "Hmmmmm"
+---
+<a href="http://www.srh.noaa.gov/data/forecasts/NHZ012.php?warncounty=NHC011&city=Brookline">Today's Forecast</a>
+
+<b>Today</b>. Cloudy with snow developing between 11 am and 2 pm then heavy snow late in the afternoon. Accumulation 4 to 6 inches. Cold with highs in the 20s. Northeast winds 10 to 15 mph. Chance of snow 90 percent.
+
+<b>Tonight</b>. Snow. Heavy at times. Accumulation 10 to 16 inches. Lows 10 to 20. Northeast winds 15 to 20 mph. Chance of snow near 100 percent.
+
+<b>Tuesday</b>. Snow. Heavy at times early in the morning. Total accumulation. 16 to 24 inches. Continued cold with highs in the mid 20s. North winds 10 to 15 mph. Chance of snow 80 percent.
+
+<b>Tuesday night</b>. Mostly cloudy. A chance of snow until midnight. Lows in the upper teens. Chance of snow 30 percent.
+
+Wood chopped, bread and milk purchased, hatches firmly battened.
+

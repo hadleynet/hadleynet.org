@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Contiki"
+date:   2003-03-11 15:53:28
+categories: tech
+---
+New Commodore 64 software: <a href="http://www.oreillynet.com/pub/wlg/2888">The Contiki Desktop OS</a>.
+

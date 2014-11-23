@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Beer"
+date:   2002-10-18 22:11:04
+categories: misc
+excerpt: "Pining for Landlord"
+---
+I'm missing <a href="http://www.timothytaylor.co.uk/llordfr.htm">Timothy Taylor's Landord</a> (quite possibly the best beer in the world, if not the universe) but <a href="http://www.samadams.com/beer/styles/octoberfest.html">Sam Adams October Fest</a> is pretty good in a good-taste-but-a-bit-on-the-fizzy-side kind of way.
+

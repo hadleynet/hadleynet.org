@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Type wars"
+date:   2003-07-23 16:02:14
+categories: misc
+---
+Type wars: <a href="http://www.mimeartist.com/helvetica/">help Helvetica crush Arial</a>. For the inner font freak in you.
+

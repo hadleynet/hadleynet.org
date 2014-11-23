@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Top Toy"
+date:   2003-03-29 19:55:44
+categories: gadgets
+---
+<a href="http://www.thinkgeek.com/cubegoodies/toys/5d39/">Atari 10 in 1 Joystick video game thing</a>. How cool is that - want one.
+

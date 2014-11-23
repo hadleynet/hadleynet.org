@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New Toy"
+date:   2003-10-08 14:42:35
+categories: gadgets
+excerpt: "Nokia 3650"
+---
+I finally gave in to temptation and splashed for a shiny new <a href="http://www.nokiausa.com/phones/3650">Nokia 3650 camera phone</a>. Once I get a bluetooth dongle for my laptop you can look forward to lots of blurry low res pics just like <a href="http://www.looseend.org/">John posts</a>.
+
+An added bonus is that I can get a GPRS connection at home which is pretty surprising since my old TDMA phone couldn't even get a decent signal there. GSM obviously roolz.
+

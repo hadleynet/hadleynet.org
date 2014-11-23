@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LOL"
+date:   2003-12-19 13:16:02
+categories: tech
+excerpt: "Twas the night before Christmas..."
+---
+<a href="http://antics.com/holiday/sun2003/card.html">Twas the night before Christmas when across the enterprise...</a> 
+

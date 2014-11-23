@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Travel"
+date:   2003-02-02 10:45:00
+categories: travel
+excerpt: "The weather isn't cooperating"
+---
+I'm supposed to be off to Microsoft HQ in Seattle today. We had 5in or so of snow last night which we just finished clearing off the drive. The <a href="http://www.flymanchester.com/frames_flight_schedules_departs.htm">airline web site</a> says the flight is still on time despite the snow so we're off to the airport now. Wish me luck !
+

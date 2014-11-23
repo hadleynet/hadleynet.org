@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Old Blog"
+date:   2003-05-20 16:21:35
+categories: misc
+excerpt: "Early dispatches from York"
+---
+A blog entry by <a href="http://www.looseend.org/index.php?m=200305#182">John</a> caused me to search for my early net activity and I came across an <a href="http://web.archive.org/web/19961224064908/http://ourworld.compuserve.com/homepages/hadley/york.htm">early example of my blogging</a>. Takes me back.
+

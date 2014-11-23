@@ -2,8 +2,8 @@
 layout: post
 title:  "Laconia Motorcycle Week"
 date:   2008-06-19 20:53:15
-categories: outdoors
-excerpt: "Took a ride up to Laconia today to check out <a href='http://www.laconiamcweek.com/index.htm'>motorcycle week</a>"
+categories: travel
+excerpt: "Took a ride up to Laconia today to check out motorcycle week"
 ---
 Took a ride up to <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Lakeside+avenue,+Weirs+Beach,+Laconia,+NH&sll=43.60998,-71.463318&sspn=0.068236,0.135612&ie=UTF8&ll=43.60608,-71.457996&spn=0.004265,0.008476&z=17">Laconia</a> today to check out <a href="http://www.laconiamcweek.com/index.htm">motorcycle week</a>. It was a beautiful day for a ride, sunny but not too hot, and traffic wasn't an issue until I arrived on Lakeside Avenue which was, as might be expected, chock full of bikes.
 
