@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Migrating Rails Data and Resetting Auto-increment Counters"
+date:   2015-03-16 19:28:00
+categories: tech
+excerpt: "Another note to self: how to migrate data from one DB to another and reset auto-increment counters using Rails"
+---
+I recently switched a Rails database from the default SQLite3 to Postgres so I could move it to Heroku. The database contained a bunch of data that I wanted to preserve so the first step was to figure out to move it over. I tried the `taps` gem and `pgloader` but ran into issues with both so I eventually just wrote the following couple of rake tasks:
+
+    desc "Export DB to JSON"
+    task :dump, [:path] => :environment do |t, args|
+      path = File.expand_path(args.path)
+      ['Color', 'Style', 'Test', 'Rank', 'Person', 'Session', 'Award', 'Attendance', 'User'].each do |model|
+        File.open(File.join(path, "#{model}.json"), 'w') do |file|
+          items = model.constantize.all.collect {|item| item.attributes}
+          JSON.dump(items, file)
+        end
+      end
+    end
+ 
+    desc "Import DB from JSON"
+    task :load, [:path] => :environment do |t, args|
+      path = File.expand_path(args.path)
+      ['Color', 'Style', 'Test', 'Rank', 'Person', 'Session', 'Award', 'Attendance', 'User'].each do |model|
+        File.open(File.join(path, "#{model}.json"), 'r') do |file|
+          JSON.load(file).each do |item|
+            model.constantize.new(item).save
+          end
+        end
+      end
+    end
+
+The first just dumps each table to a JSON file using the corresponding Rails models. The second loads those JSON files into the new database.
+
+Everything worked fine until I tried to add anything new to the DB then I got the following error:
+
+    ERROR: duplicate key value violates unique constraint DETAIL: Key (id)=(1) already exists
+    
+The problem was that the new database assumed that the auto-increment field value should start back at 1 and ignored the data I just added which had pre-assigned IDs. The following one liner in the Rails console did the trick:
+
+    ActiveRecord::Base.connection.tables.each { |t| ActiveRecord::Base.connection.reset_pk_sequence!(t) }

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Brrrr"
+date:   2015-01-08 08:30:00
+categories: weather
+excerpt: "It's cold out there"
+---
+A brisk 1F/-17C this morning at 8:30am. As Tom Waits once said: "it's colder than a ticket takers smile at the Ivar Theatre on a Saturday night".

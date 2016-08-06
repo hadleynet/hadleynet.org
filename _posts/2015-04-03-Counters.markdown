@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Devise and Sessions"
+date:   2015-03-16 19:28:00
+categories: tech
+excerpt: "Note to self: when using Devise don't create a new resource called session and, if you do, here's how to fix things"
+---
+If you are looking for a simple way to add security to a Ruby on Rails application then [Devise](https://rubygems.org/gems/devise) is really simple to use but there's a lot of magic going on under the covers that is easy to screw up. E.g. if, like me, you create a new resource called 'session' then you are in for a world of hurt. Fortunately the solution isn't too bad.
+
+The first thing to do is to add `:as` and `:path` qualifiers to your routes file like this:
+
+    resources :sessions, :as => 'karate_sessions', :path => 'karate_sessions'
+
+In this case I'm renaming the generated path methods and the paths used to access the new resource. Then you need to add explicit path methods in place of implicit one. E.g. in your show view template instead of:
+
+    link_to 'Edit', @session
+    
+you'll need something like:
+
+    link_to 'Edit', edit_karate_session_path(@session)
+    
+Similarly in your edit/create form you'll need to replace:
+
+    form_for(@session)
+
+with
+
+    form_for(@session, :url => @session.id ? karate_session_path(@session) : karate_sessions_path)
+    
+You'll also need to do similar edits in the session_controller for any redirects or other implicit resource path generators.
