@@ -14,7 +14,7 @@ We've been reading [Adventure Cyclist](https://www.adventurecycling.org/adventur
 Neither of our road bikes have the necessary braze-ons to add luggage and cycling a long distance with a rucksack isn't ideal. Fortunately my mountain bike already had a rack so I decided to make a couple of modifications to that to make it more touring friendly:
 
 - I swapped out the knobby off-road tires for a set of [Schwalbe Big Apples](https://amzn.com/B007JSOQLK). I went for the 2in wide version so they wouldn't look too ridiculous on a mountain bike like thinner tires can. These roll much easier than knobby tires but still offer a nice plush ride over bumpy road.
-- I swapped the flat handle bar for a [Modolo Yuma](https://amzn.com/B00SVUP64G) trekking bar so I'd have more hand positions while riding. I figured that riding lots of miles with my hands spread wide on the flat bar would be tiring. The trekking bar worked we once I found a good spot for the brake and gear levers.
+- I swapped the flat handle bar for a [Modolo Yuma](https://amzn.com/B00SVUP64G) trekking bar so I'd have more hand positions while riding. I figured that riding lots of miles with my hands spread wide on the flat bar would be tiring. The trekking bar worked well once I found a good spot for the brake and gear levers.
 
 We both invested in rain jackets just-in-case and, for luggage, we bought a pair of [Arkel T-42 panniers](http://www.arkel-od.com/en/t-42-lite-touring-panniers.html) and an [Arkel small handlebar bag](http://www.arkel-od.com/en/small-handlebar-bike-bag.html). Alison added a small velcro handlebar bag to her roadbike that we've had in the family for some time. It's summer so we packed light with just enough clothes for off-the-bike evenings out. Total luggage weight was 26lbs, not too bad at all.
 
@@ -36,13 +36,13 @@ We started day two with a delicious breakfast at the inn and then gathered our t
 
 <img src='/assets/20160804-Bicycle-Tour/river.jpg'>
 
-We the cycled the remaining few miles to the [Colby Hill Inn](http://www.colbyhillinn.com) where we were able to check in early and drop our bags. We headed back out for lunch at St George's Cafe on Bridge St (the jalapeno and cheese bagel with jalapeno cream cheese was delicious) and then cycled a loop via Contoocook and Hopkinton to make up for the relatively small distance between our accommodations. We followed some of the [Currier and Ives Scenic Byway](http://currierandivesbyway.org/along-the-byway) but were disappointed in the section on Rt 202 between Hopkinton and Henniker: traffic speeding by at 60 mph does not make for a scenic or relaxing ride!
+We then cycled the remaining few miles to the [Colby Hill Inn](http://www.colbyhillinn.com) where we were able to check in early and drop our bags. We headed back out for lunch at St George's Cafe on Bridge St (the jalapeno and cheese bagel with jalapeno cream cheese was delicious) and then cycled a loop via Contoocook and Hopkinton to make up for the relatively small distance between our accommodations. We followed some of the [Currier and Ives Scenic Byway](http://currierandivesbyway.org/along-the-byway) but were disappointed in the section on Rt 202 between Hopkinton and Henniker: traffic speeding by at 60 mph does not make for a scenic or relaxing ride!
 
 On the return leg of the loop we stopped in at [Henniker Brewing](http://www.hennikerbrewing.com/home.html) for a cold, refreshing tasting flight.
 
 <img src='/assets/20160804-Bicycle-Tour/beer.jpg'>
 
-In the evening we attended a free jazz concert at the Henniker band stand and enjoyed take-out pizza and fries from Sonny's Main Street Pizza just across the street.
+In the evening we attended a free jazz concert by [Swing Rocket](https://www.facebook.com/swingrocketmusic/) at the Henniker band stand and enjoyed take-out pizza and fries from Sonny's Main Street Pizza just across the street.
 
 <img src='/assets/20160804-Bicycle-Tour/music.jpg'>
 
