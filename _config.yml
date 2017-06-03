@@ -10,4 +10,5 @@ github_username:  hadleynet
 
 # Build settings
 markdown: kramdown
+gems: [jekyll-paginate]
 paginate: 5
